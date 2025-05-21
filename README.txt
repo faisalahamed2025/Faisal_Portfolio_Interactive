@@ -1,0 +1,1 @@
+Add your profile image as 'Selfimage.jpg' and your resume as 'resume.pdf' in this folder.
